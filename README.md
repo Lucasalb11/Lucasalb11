@@ -8,16 +8,12 @@
 
 I'm a Brazilian entrepreneur and Economics student, currently diving deep into the world of Web3, blockchain development, and decentralized finance (DeFi). 
 
-After years working in real estate and construction, I decided to shift gears and start building in a different kind of architecture — digital and decentralized.
-
 ---
 
 ## 💡 What I'm Working On
 
 - ✨ Smart contracts (Solidity, Hardhat, Foundry)
 - 📊 Blockchain explorers (wallet tracking, on-chain analytics)
-- 🌐 Dark-themed frontends for Web3 apps
-- 🧠 Educational tools to onboard people into DeFi
 - 🔐 Privacy-focused crypto infrastructure
 
 ---
@@ -37,9 +33,7 @@ After years working in real estate and construction, I decided to shift gears an
 
 ## 🌱 Currently Learning
 
-- Blockchain interoperability & custom rollups  
-- Building sovereign and censorship-resistant tokens  
-- UX for crypto onboarding  
+- Blockchain interoperability
 - Privacy-preserving Web3 solutions  
 - Scaling strategies and tokenomics
 
@@ -49,16 +43,11 @@ After years working in real estate and construction, I decided to shift gears an
 
 - 📘 [University of Nicosia](https://www.unic.ac.cy/blockchain/) – Blockchain & Digital Currency Program  
 - 🚀 [NearX](https://nearx.dev) – Scale Web3 Developer Program  
-- 📚 Daily deep-dives into Solidity, DeFi protocols & Linux fundamentals
+- 📚 Daily deep-dives into Solidity, DeFi protocols
 
 ---
 
 ## 🤝 Let's Connect
 
-If you're into building open, censorship-resistant financial tools — or just exploring the rabbit hole — feel free to reach out!  
 You can find me on [LinkedIn](https://www.linkedin.com/in/lucasalb11/) or contribute to one of my [repos](https://github.com/Lucasalb11).
 
----
-
-### 🌌 Personal motto
-> From bricks to blocks — I build freedom, one line of code at a time.
