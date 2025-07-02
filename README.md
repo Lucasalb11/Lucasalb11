@@ -2,8 +2,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Lucasalb11?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Lucasalb11?affiliations=OWNER%2CCOLLABORATOR&style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/Lucasalb11)
-![Top Langs](https://img.shields.io/github/languages/top/Lucasalb11)
 ![Profile Views](https://komarev.com/ghpvc/?username=Lucasalb11&color=blue)
 
 I'm a Brazilian entrepreneur and Economics student, currently diving deep into the world of Web3, blockchain development, and decentralized finance (DeFi). I'm passionate about building open-source, privacy-focused tools that empower individuals in the decentralized era.
