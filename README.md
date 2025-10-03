@@ -28,6 +28,8 @@ I'm a Brazilian entrepreneur and Economics student, currently diving deep into t
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![C]([https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white](https://img.shields.io/badge/C-Language-00599C?style=flat&logo=c&logoColor=white
+)
 
 ---
 
@@ -42,7 +44,7 @@ I'm a Brazilian entrepreneur and Economics student, currently diving deep into t
 
 ## 🧠 Studying With
 
-- 📘 [University of Nicosia](https://www.unic.ac.cy/blockchain/) – Blockchain & Digital Currency Program  
+- 📘 CS50 - Harvard 
 - 🚀 [NearX](https://nearx.dev) – Scale Web3 Developer Program  
 - 📗 [The Rust Programming Language Book](https://doc.rust-lang.org/book/) – Mastering Rust fundamentals  
 - 🧪 Daily deep-dives into Solidity, Rust and DeFi protocols
