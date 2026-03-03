@@ -4,16 +4,16 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/Lucasalb11?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=Lucasalb11&color=blue)
 
-I'm a Brazilian entrepreneur and Economics student, currently diving deep into the world of Web3, blockchain development, and decentralized finance (DeFi). I'm passionate about building open-source, privacy-focused tools that empower individuals in the decentralized era.
+I'm a Brazilian entrepreneur and computer Engineer student, currently diving deep into the world of Web3, blockchain development, and decentralized finance (DeFi).
 
 ---
 
 ## 💡 What I'm Working On
 
-- ✨ Smart contracts (Solidity, Hardhat, Foundry)
-- 🧠 Blockchain explorers (wallet tracking, on-chain analytics)
-- 🔐 Privacy-first crypto infrastructure
-- ⚙️ Rust applications for secure and scalable systems
+-  Smart contracts (Solidity, Hardhat, Foundry)
+-  NexusFi 
+-  Privacy-first crypto infrastructure
+-  Rust applications for secure and scalable systems
 
 ---
 
@@ -44,10 +44,11 @@ I'm a Brazilian entrepreneur and Economics student, currently diving deep into t
 
 ## 🧠 Studying With
 
-- 📘 CS50 - Harvard 
-- 🚀 [NearX](https://nearx.dev) – Scale Web3 Developer Program  
-- 📗 [The Rust Programming Language Book](https://doc.rust-lang.org/book/) – Mastering Rust fundamentals  
-- 🧪 Daily deep-dives into Solidity, Rust and DeFi protocols
+- Bachelor’s in Computer Engineering (in progress) - Universidade Federal Rural de Pernambuco (UFRPE)
+- CS50 - Harvard 
+- [NearX](https://nearx.dev) – Scale Web3 Developer Program  
+- [The Rust Programming Language Book](https://doc.rust-lang.org/book/) – Mastering Rust fundamentals  
+- Daily deep-dives into Solidity, Rust and DeFi protocols
 
 ---
 
